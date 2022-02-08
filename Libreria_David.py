@@ -64,3 +64,5 @@ def paresCirculos():
         if y <= x and i % 2 == 0:
             print(f"El área del círculo numero {y} para radio valor", i, "es de", 3.14 * (i**2), "metros cuadrados.")
             y= y+1
+            
+print ("Esta es una frase para el conflicto de versiones subido desde la carpeta Conflictos1")
