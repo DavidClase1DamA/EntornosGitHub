@@ -66,3 +66,5 @@ def paresCirculos():
             y= y+1
             
 print ("Esta es una frase para el conflicto de versiones subido desde la carpeta Conflictos1")
+print ("Esta es una frase para el conflicto de versiones subido desde la carpeta Conflictos2")
+print ("Solucionamos el conflicto")
